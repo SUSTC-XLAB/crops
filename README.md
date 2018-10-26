@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## 项目名称:
+## 项目简介
+        【150字内】
+        【具有自主版权的项目效果图 或者 实物图】
 
-You can use the [editor on GitHub](https://github.com/SUSTC-XLAB/crops/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### 设计文档 ###
+[参见](https://github.com/SUSTC-XLAB/TEST//wiki)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 快速开始
+     【项目资料的结构 和 项目资料、代码如何使用，至少指导用户完成一个实验】
 
-### Markdown
+## 项目组成员
+      助理：刘斌-11849321@mail.sustc.edu.cn
+      某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
+### 联系 ###
+[NKXLAB](https://github.com/NKXLAB)
+    [南方科技大学-XLAB]QQ群：532614505
+    
+### Change log ###
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
+ 
+    
+### 参考资料 ###
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SUSTC-XLAB/crops/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
