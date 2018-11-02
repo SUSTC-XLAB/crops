@@ -28,6 +28,6 @@
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
 
-[Reference](https://github.com/SUSTC-XLAB/crops.wiki.git)
+[图像识别入门](https://github.com/SUSTC-XLAB/crops.wiki.git)
 
-[参考资料URL](https://github.com/SUSTC-XLAB/crops.wiki.git)
+
