@@ -14,16 +14,20 @@
       某某  邮箱或者GITHUB ID   ， 项目分工 ，【时间-时间】
 ### 联系 ###
 [NKXLAB](https://github.com/NKXLAB)
-    [南方科技大学-XLAB]QQ群：532614505
+
+[南方科技大学-XLAB]QQ群：532614505
     
 ### Change log ###
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
 
+[项目发展历程](https://github.com/SUSTC-XLAB/crops.wiki.git)
  
     
 ### 参考资料 ###
 
 [Releases](https://github.com/SUSTC-XLAB/TEST//releases)
+
 [Reference](https://github.com/SUSTC-XLAB/crops.wiki.git)
+
 [参考资料URL](https://github.com/SUSTC-XLAB/crops.wiki.git)
