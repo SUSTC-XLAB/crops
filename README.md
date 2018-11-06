@@ -30,4 +30,5 @@
 
 [图像识别入门](https://github.com/SUSTC-XLAB/crops.wiki.git)
 
+[图像识别与卷积神经网络](https://github.com/SUSTC-XLAB/crops.wiki.git)
 
