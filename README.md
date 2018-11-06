@@ -26,7 +26,6 @@
     
 ### 参考资料 ###
 
-[Releases](https://github.com/SUSTC-XLAB/TEST//releases)
 
 [图像识别入门](https://github.com/SUSTC-XLAB/crops.wiki.git)
 
