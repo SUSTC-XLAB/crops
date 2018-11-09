@@ -31,3 +31,4 @@
 
 [图像识别与卷积神经网络](https://github.com/SUSTC-XLAB/crops.wiki.git)
 
+[卷积神经网络之AlexNet](https://github.com/SUSTC-XLAB/crops/wiki/卷积神经网络之AlexNet)
