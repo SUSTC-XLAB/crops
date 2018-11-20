@@ -35,3 +35,5 @@
 [卷积神经网络之AlexNet](https://github.com/SUSTC-XLAB/crops/wiki/卷积神经网络之AlexNet)
 
 [tensorflow入门](https://github.com/SUSTC-XLAB/crops/wiki/tensorflow入门)
+
+[图像识别技术在作物病虫害诊断中的应用初探](https://github.com/SUSTC-XLAB/crops/wiki/图像识别技术在作物病虫害诊断中的应用初探)
