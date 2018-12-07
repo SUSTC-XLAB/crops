@@ -41,3 +41,5 @@
 [基于图像识别的农作物病虫害识别研究现状](https://github.com/SUSTC-XLAB/crops/wiki/%E5%9F%BA%E4%BA%8E%E5%9B%BE%E5%83%8F%E8%AF%86%E5%88%AB%E7%9A%84%E5%86%9C%E4%BD%9C%E7%89%A9%E7%97%85%E8%99%AB%E5%AE%B3%E8%AF%86%E5%88%AB%E7%A0%94%E7%A9%B6%E7%8E%B0%E7%8A%B6)
 
 [MNIST 数据集输出手写数字识别](https://github.com/SUSTC-XLAB/crops/wiki/MNIST-%E6%95%B0%E6%8D%AE%E9%9B%86%E8%BE%93%E5%87%BA%E6%89%8B%E5%86%99%E6%95%B0%E5%AD%97%E8%AF%86%E5%88%AB)
+
+[国内病虫害识别产品介绍](https://github.com/SUSTC-XLAB/crops/wiki/%E5%9B%BD%E5%86%85%E7%97%85%E8%99%AB%E5%AE%B3%E8%AF%86%E5%88%AB%E4%BA%A7%E5%93%81%E4%BB%8B%E7%BB%8D)
